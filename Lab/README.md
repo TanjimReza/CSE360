@@ -19,7 +19,7 @@ Please refer to the following wiring diagram to connect the components:
 
 ## Code Explanation
 
-The Arduino code for this project can be found in the [home-security-system.ino](/home-security-system.ino) file. Here is a brief explanation of the code:
+The Arduino code for this project can be found in the [home-security-system.ino](/Arduino_Code_Optimized.ino) file. Here is a brief explanation of the code:
 
 - `LED`, `MAGNETIC_REED`, `LDR`, and `PIR` are the pin numbers for the LED, magnetic reed switch, LDR sensor, and PIR sensor, respectively.
 - `LDR_STATE`, `PIR_STATE`, and `REED_STATE` are variables used to store the state of the LDR sensor, PIR sensor, and magnetic reed switch, respectively.
